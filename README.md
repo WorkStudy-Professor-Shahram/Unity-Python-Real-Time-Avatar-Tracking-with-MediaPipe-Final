@@ -1,4 +1,4 @@
-# Unity-Python-Real-Time-Avatar-Tracking-with-MediaPipe
+# Unity Python Real Time Avatar Tracking with MediaPipe
 
 ## 🚀 Overview
 Welcome to Unity-Python-Real-Time-Avatar-Tracking-with-MediaPipe, where Unity meets Python and Google MediaPipe to bring your avatars to life with real-time full-body tracking! This project uses the MediaPipePose library to detect your body movements via your webcam, and then translates those movements into actions for any humanoid avatar inside Unity.
